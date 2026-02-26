@@ -21,11 +21,9 @@ export const Main = () => {
     );
 };
 
-const StyledMain = styled.div`
+const StyledMain = styled.section`
     background-color: #bfe0f4;
-    height: 100vh;
-    position: relative;
-    
+    min-height: 100vh;
 `
 const TextContainer = styled.div`
     max-width: 514px;
