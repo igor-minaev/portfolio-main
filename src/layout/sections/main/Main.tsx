@@ -22,7 +22,6 @@ export const Main = () => {
 };
 
 const StyledMain = styled.section`
-    background-color: #bfe0f4;
     min-height: 100vh;
 `
 const TextContainer = styled.div`

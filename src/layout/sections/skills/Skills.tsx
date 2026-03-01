@@ -123,7 +123,6 @@ export const Skills = () => {
 };
 
 const StyledSkills = styled.section`
-    background-color: #ff89e2;
 `
 
 const GridWrapper = styled.div`
